@@ -64,6 +64,8 @@ export const headingStyle = styled.h1`
   background-color: rgb(46, 47, 71);
   margin: 73px 6px 73px -3px;
   border-radius: 37px;
+  font-family: "Geist Mono", "Geist Mono Fallback", monospace;
+  padding: 18px;
   color: #000000;
 
   @media (prefers-color-scheme: dark) {
