@@ -55,10 +55,13 @@ export const contentStyle = styled.div`
 
 export const headingStyle = styled.h1`
   max-width: 20rem;
-  font-size: 1.875rem;
+  font-family: Times;
+  font-size: 124px;
   font-weight: 600;
-  line-height: 2.5rem;
-  letter-spacing: -0.025em;
+  line-height: 84.5px;
+  letter-spacing: 3.9px;
+  opacity: 0.55;
+  padding: 27px;
   color: #000000;
 
   @media (prefers-color-scheme: dark) {
