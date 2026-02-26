@@ -15,7 +15,7 @@ export default function Home() {
           priority
         />
         <S.contentStyle>
-          <S.headingStyle>Next.js React Emotion Starter</S.headingStyle>
+          <S.headingStyle>I'm a big ol block of text</S.headingStyle>
           <S.paragraphStyle>
             Looking for a starting point or more instructions? Head over to{' '}
             <S.linkStyle href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app">

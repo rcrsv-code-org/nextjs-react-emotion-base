@@ -62,6 +62,10 @@ export const headingStyle = styled.h1`
   letter-spacing: 3.9px;
   opacity: 0.55;
   padding: 27px;
+  background-color: rgb(0, 0, 0);
+  border-width: 9px;
+  border-style: solid;
+  border-radius: 59px 0px 0px 59px;
   color: #000000;
 
   @media (prefers-color-scheme: dark) {
