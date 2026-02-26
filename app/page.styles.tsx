@@ -46,6 +46,9 @@ export const contentStyle = styled.div`
   align-items: center;
   gap: 1.5rem;
   text-align: center;
+  background-color: rgb(38, 38, 49);
+  border-radius: 56px;
+  padding: 38px;
 
   @media (min-width: 640px) {
     align-items: flex-start;
