@@ -58,7 +58,9 @@ export const headingStyle = styled.h1`
   font-weight: 600;
   line-height: 127.2px;
   letter-spacing: 20px;
-  background-color: #000000;
+  background-color: rgb(46, 47, 71);
+  margin: 73px 6px 73px -3px;
+  border-radius: 37px;
   color: #000000;
 
   @media (prefers-color-scheme: dark) {
