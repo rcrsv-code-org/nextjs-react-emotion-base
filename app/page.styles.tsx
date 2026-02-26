@@ -46,7 +46,7 @@ export const contentStyle = styled.div`
   align-items: center;
   gap: 1.5rem;
   text-align: center;
-  background-color: rgb(38, 38, 49);
+  background-color: rgb(33, 32, 34);
   border-radius: 56px;
   padding: 38px;
 
